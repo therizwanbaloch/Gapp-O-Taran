@@ -27,7 +27,7 @@ Built to be lightweight, fast, and scalable.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/gapp-o-taran.git
+https://github.com/therizwanbaloch/Gapp-O-Taran.git
 
 # Go to project folder
 cd gapp-o-taran
